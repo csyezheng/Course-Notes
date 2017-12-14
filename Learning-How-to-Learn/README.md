@@ -62,5 +62,5 @@ Avoid these techniques—they can waste your time even while they fool you into 
 8. **Not checking with your instructors or classmates to clear up points of confusion.** Professors are used to lost students coming in for guidance—it’s our job to help you. The students we worry about are the ones who don’t come in. Don’t be one of those students.
 9. **Thinking you can learn deeply when you are being constantly distracted.** Every tiny pull toward an instant message or conversation means you have less brain power to devote to learning. Every tug of interrupted attention pulls out tiny neural roots before they can grow.
 10. **Not getting enough sleep.** Your brain pieces together problem-solving techniques when you sleep, and it also practices and repeats whatever you put in mind before you go to sleep. Prolonged fatigue allows toxins to build up in the brain that disrupt the neural connections you need to think quickly and well. If you don’t get a good sleep before a test, NOTHING ELSE YOU HAVE DONE WILL MATTER.
-
 Reference: [*Learning How to Learn*](https://www.coursera.org/learn/learning-how-to-learn) on the Coursera.
+
